@@ -1,0 +1,1 @@
+{"uuid":"f3da739f-2df0-485e-83ff-3e0b7fb7620c","name":"com.ngc.tests.LeadsTest.Setup","children":["7c9ea387-7f0f-4036-86f2-70cfab567f80"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677333494240,"stop":1677333501371}],"afters":[],"start":1677333494238,"stop":1677333501371}
